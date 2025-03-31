@@ -11,4 +11,4 @@
     - npm install react-router-dom
     - npm install styled-components
 9) verificar se tem a extensao es7 react/rodux/graphQL/react-native snippets
-10) criando os components do projeto com o comando rafce
+ 10) criando os components do projeto com o comando rafce
